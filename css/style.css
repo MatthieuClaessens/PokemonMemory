@@ -6,7 +6,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-image: url('/img/pokemon-background.webp');
+    background-image: url('img/pokemon-background.webp');
     background-size: cover;
     margin: 0;
     padding: 20px;
